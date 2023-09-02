@@ -2,3 +2,4 @@
            002 changed in FORK
            003 changed - TODO rename file
            004 changed in FORK: renamed file to myText.txt
+           005 changed in FORK - issue #4 seems resolved now
