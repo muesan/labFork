@@ -1,5 +1,6 @@
-2023-09-02 001 initial entry
-           002 changed
-           003 changed in FORK
-           004 changed
-           005 changed
+02.09.2023 001 initial entry
+           002 modified
+           003 modified in FORK
+           004 modified
+           005 modified
+03.09.2023 006 modified in FORK
