@@ -10,3 +10,4 @@
            010 modified in FORK
            011 modified in FORK - ssh config + git config modified (id only)
            012 modified in FORK - git config for sshComand: added '-F none' (-> ignore /etc/ssh/ssh_config and ~/.ssh/config)
+           013 modified in FORK - git config for current repo modified
