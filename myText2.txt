@@ -1,5 +1,6 @@
 02.09.2023 001 created in FORK
-           002 changed in FORK
-           003 changed - TODO rename file
-           004 changed in FORK: renamed file to myText.txt
-           005 changed in FORK - issue #4 seems resolved now
+           002 modified in FORK
+           003 modiefied - TODO rename file
+           004 modified in FORK: renamed file to myText.txt
+           005 modified in FORK - issue #4 seems resolved now
+03.09.2023 006 modified in FORK
